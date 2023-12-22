@@ -84,7 +84,7 @@ function checkFlexGap() {
 }
 checkFlexGap();
 
-// https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js
+
 
 /*
 .no-flexbox-gap .main-nav-list li:not(:last-child) {
